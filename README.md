@@ -96,7 +96,7 @@ Changes not staged for commit:
 no changes added to commit (use "git add" and/or "git commit -a")
 ```
 
-``
+```
 loki @ ~/Documents/GitHub/multiverse $ git add earth.txt
 loki @ ~/Documents/GitHub/multiverse $ git commit -m "Implement counterattack strategy"
 [main ee67c8b] Implement counterattack strategy
